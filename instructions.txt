@@ -1,3 +1,4 @@
 go test -v ./simplefactory/simple.go ./simplefactory/simple_test.go
 go test -v ./singleton/singleton.go ./singleton/singleton_test.go
 go test -v ./factorymethod/factorymethod.go ./factorymethod/factorymethod_test.go
+go test -v ./strategy/strategy.go ./strategy/strategy_test.go
